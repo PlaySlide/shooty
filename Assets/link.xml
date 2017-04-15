@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="UnityEngine">
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-UnityScript">
+    <type fullname="getShootAngle" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI">
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+  </assembly>
+</linker>
